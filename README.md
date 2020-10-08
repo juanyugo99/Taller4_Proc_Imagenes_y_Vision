@@ -1,3 +1,3 @@
 # Taller4_Proc_Imagenes_y_Vision
 Entrega del taller 4 de Procesamiento de imágenes y visón El trabajo consta de la implementación dos escripts, el primero compara el desempeño de dos clasificadores (k-Means y Gaussian mixture model) variando el numero de clusters que clasifican los colores de una imagen. El segundo script toma tres puntos de una imagen y a partir de estos y de otros tres puntos de otra imagen(consta de la primera imagen + transformaciones geometricas) intenta deducir la transformacion afin para mapear la primera imagen en la segunda.
-Trabajo realizado por Manuela Barvo y Juan Pablo Guerrero. El archivo Taller1.pdf fue escrito por el ingeniero Julián Armando Quiroga Sepúlveda para la Pontificia Universidad Javeriana.
+Trabajo realizado por Manuela Barvo y Juan Pablo Guerrero. El archivo Taller4.pdf fue escrito por el ingeniero Julián Armando Quiroga Sepúlveda para la Pontificia Universidad Javeriana.
