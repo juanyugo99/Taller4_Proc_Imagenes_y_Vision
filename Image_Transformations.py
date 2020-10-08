@@ -79,7 +79,7 @@ cv2.imshow("Image Similarity", image_similarity)
 
 # se calcula el error cuadratico medio para la imagen transformada con la matriz de similitud respecto
 # a ala imagen de lena_warped.png
-ECM_gauss_similarity = math.sqrt(np.square(np.subtract(image_similarity, image2)).mean())
-print(ECM_gauss_similarity)
+ECM_similarity = math.sqrt(np.square(np.subtract(image_similarity, image2)).mean())
+print('ECM: ',ECM_similarity)
 
 cv2.waitKey(0)
