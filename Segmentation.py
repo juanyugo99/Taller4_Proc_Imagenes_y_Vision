@@ -84,7 +84,7 @@ for ncolors in range(1,11):
 fig_count += 1
 plt.figure(fig_count)
 plt.clf()
-plt.title('intra-cluster distance')
+plt.title('intra-cluster distance, method={}'.format(method[select]))
 plt.xlabel('N Colors')
 plt.ylabel('d')
 plt.plot(distance)
